@@ -14,3 +14,4 @@ rabbitmq:4.0.2-management
 nacos/nacos-server:v2.4.3
 node:22.9-alpine
 nginx:alpine3.20
+docker:27.3-dind
