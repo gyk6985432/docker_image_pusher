@@ -15,3 +15,4 @@ nacos/nacos-server:v2.4.3
 node:22.9-alpine
 nginx:alpine3.20
 docker
+maven:3.8.7
