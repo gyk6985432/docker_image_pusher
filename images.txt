@@ -17,3 +17,5 @@ node:22.9-alpine
 nginx:alpine3.20
 docker
 maven:3.8.7
+gitea/gitea:1.22.6
+
