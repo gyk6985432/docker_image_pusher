@@ -18,4 +18,5 @@ nginx:alpine3.20
 docker
 maven:3.8.7
 gitea/gitea:1.22.6
-
+gitea/act_runner:0.2.11
+drone/drone:2
