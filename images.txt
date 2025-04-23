@@ -31,3 +31,4 @@ infiniflow/ragflow:v0.16.0
 
 vllm/vllm-openai:v0.7.3
 grafana/grafana:11.6.0-ubuntu
+python:3.13-slim-bullseye
