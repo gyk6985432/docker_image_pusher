@@ -33,4 +33,5 @@ jenkins/jenkins:2.491-jdk17
 #vllm/vllm-openai:v0.7.3
 grafana/grafana:11.6.0-ubuntu
 prom/prometheus:v3.3.1
+bitnami/node-exporter:1.9.1
 python:3.13-slim-bullseye
