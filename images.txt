@@ -21,14 +21,16 @@ gitea/gitea:1.22.6
 gitea/act_runner:0.2.11
 drone/drone:2
 jenkins/jenkins:2.491-jdk17
-# ragflow
-infiniflow/infinity:v0.6.0-dev3
-elasticsearch:8.11.3
-mysql:8.0.39
-quay.io/minio/minio:RELEASE.2023-12-20T01-00-02Z
-valkey/valkey:8
-infiniflow/ragflow:v0.16.0
 
-vllm/vllm-openai:v0.7.3
+# ragflow
+#infiniflow/infinity:v0.6.0-dev3
+#elasticsearch:8.11.3
+#mysql:8.0.39
+#quay.io/minio/minio:RELEASE.2023-12-20T01-00-02Z
+#valkey/valkey:8
+#infiniflow/ragflow:v0.16.0
+
+#vllm/vllm-openai:v0.7.3
 grafana/grafana:11.6.0-ubuntu
+prom/prometheus:v3.3.1
 python:3.13-slim-bullseye
