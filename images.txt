@@ -35,3 +35,5 @@ grafana/grafana:11.6.0-ubuntu
 prom/prometheus:v3.3.1
 prom/node-exporter:v1.9.1
 python:3.13-slim-bullseye
+
+docker.elastic.co/elasticsearch/elasticsearch-wolfi:9.0.0
