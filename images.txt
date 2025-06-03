@@ -29,7 +29,7 @@ elasticsearch:8.11.3
 mysql:8.0.39
 quay.io/minio/minio:RELEASE.2023-12-20T01-00-02Z
 valkey/valkey:8
-infiniflow/ragflow:v0.19.0-slim
+infiniflow/ragflow:v0.19.0
 
 #vllm/vllm-openai:v0.7.3
 grafana/grafana:11.6.0-ubuntu
